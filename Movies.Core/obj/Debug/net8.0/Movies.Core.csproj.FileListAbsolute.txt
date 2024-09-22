@@ -1,0 +1,12 @@
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\bin\Debug\net8.0\Movies.Core.deps.json
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\bin\Debug\net8.0\Movies.Core.dll
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\bin\Debug\net8.0\Movies.Core.pdb
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.AssemblyInfoInputs.cache
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.AssemblyInfo.cs
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.csproj.CoreCompileInputs.cache
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.dll
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\refint\Movies.Core.dll
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.pdb
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\ref\Movies.Core.dll
+E:\Back-end\MY PROJECTS\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.csproj.AssemblyReference.cache
